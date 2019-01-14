@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /img/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Yandex
+Allow: /img/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+
+Host: arendazubovo.ru
+Sitemap: http://arendazubovo.ru/sitemap.xml
